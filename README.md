@@ -34,3 +34,10 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 | `semestre` | `int` | Nivel o semestre lectivo actual | `1` |
 
 ---
+## 🚀 Instrucciones de Ejecución
+
+### Prerrequisitos
+* Tener instalado el *Java Development Kit (JDK 21)* o superior.
+* Entorno de desarrollo recomendado: *Visual Studio Code* o Apache NetBeans.
+
+---
