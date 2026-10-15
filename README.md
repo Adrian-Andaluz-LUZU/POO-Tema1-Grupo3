@@ -24,7 +24,30 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 
 ## Diagrama de la Clase `Estudiante`
 
-" pegas aqui tu diagrma mateto "
+### Diagrama de la clase *Estudiante*
+
+```text
+┌─────────────────────────────────────────┐
+│               Estudiante                │
+├─────────────────────────────────────────┤
+│ - nombre: String                        │
+│ - apellido: String                      │
+│ - edad: int                             │
+│ - carrera: String                       │
+│ - semestre: int                         │
+└─────────────────────────────────────────┘
+### Explicación de los Atributos y Valores
+
+* **nombre** (`String`): Representa el primer o segundo nombre del estudiante.
+  * *Ejemplos de valores:* `"Mateo"`, `"Carla"`, `"Luis"`.
+* **apellido** (`String`): Representa el o los apellidos del estudiante.
+  * *Ejemplos de valores:* `"Pérez"`, `"Zambrano"`, `"Gómez"`.
+* **edad** (`int`): Representa la edad en años cumplidos del estudiante.
+  * *Ejemplos de valores:* `18`, `19`, `21`.
+* **carrera** (`String`): Representa el programa académico o carrera universitaria en la que está matriculado el estudiante.
+  * *Ejemplos de valores:* `"Software"`, `"Tecnologías de la Información"`.
+* **semestre** (`int`): Representa el nivel o periodo académico actual que se encuentra cursando.
+  * *Ejemplos de valores:* `1`, `2`, `3`.
 
 ----
 
