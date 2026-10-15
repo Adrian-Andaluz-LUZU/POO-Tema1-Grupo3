@@ -35,7 +35,7 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 │ - semestre: int                         │
 └─────────────────────────────────────────┘
 ### Explicación de los Atributos y Valores
-```
+
 * **nombre** (`String`): Representa el primer o segundo nombre del estudiante.
   * *Ejemplos de valores:* `"Mateo"`, `"Carla"`, `"Luis"`.
 * **apellido** (`String`): Representa el o los apellidos del estudiante.
@@ -46,7 +46,7 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
   * *Ejemplos de valores:* `"Software"`, `"Tecnologías de la Información"`.
 * **semestre** (`int`): Representa el nivel o periodo académico actual que se encuentra cursando.
   * *Ejemplos de valores:* `1`, `2`, `3`.
-```
+
 ----
 
 ## Descripción de los Atributos
