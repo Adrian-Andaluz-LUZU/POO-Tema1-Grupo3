@@ -13,39 +13,6 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 
 ##  Integrantes y Distribución de Responsabilidades
 
-| Integrante | Rol / Responsabilidad | Actividad Asignada |
-| :--- | :--- | :--- |
-| **Ariel Chanatasig** | Investigación e Investigación Teórica | **Actividad 1:** Análisis y conceptualización de la POO |
-| **Mateo Salazar** | Diseñador de Software | **Actividad 2:** Diseño de la clase y modelado de atributos |
-| **Adrián Andaluz** | Desarrollador Lead & Git Manager | **Actividad 3 y 4:** Implementación en Java y Gestión del Repositorio Git/GitHub |
-| **Paulo Escobar** | Analista y Documentador | **Actividad 5:** Reflexión grupal y consolidación de entregables |
-
----
-
-## Diagrama de la Clase `Estudiante`
-
-```text
-┌─────────────────────────────────────────┐
-│               Estudiante                │
-├─────────────────────────────────────────┤
-│ - nombre: String                        │
-│ - apellido: String                      │
-│ - edad: int                             │
-│ - carrera: String                       │
-│ - semestre: int                         │
-└─────────────────────────────────────────┘
-### Explicación de los Atributos y Valores
-
-* **nombre** (`String`): Representa el primer o segundo nombre del estudiante.
-  * *Ejemplos de valores:* `"Mateo"`, `"Carla"`, `"Luis"`.
-* **apellido** (`String`): Representa el o los apellidos del estudiante.
-  * *Ejemplos de valores:* `"Pérez"`, `"Zambrano"`, `"Gómez"`.
-* **edad** (`int`): Representa la edad en años cumplidos del estudiante.
-  * *Ejemplos de valores:* `18`, `19`, `21`.
-* **carrera** (`String`): Representa el programa académico o carrera universitaria en la que está matriculado el estudiante.
-  * *Ejemplos de valores:* `"Software"`, `"Tecnologías de la Información"`.
-* **semestre** (`int`): Representa el nivel o periodo académico actual que se encuentra cursando.
-  * *Ejemplos de valores:* `1`, `2`, `3`.
 
 ----
 
