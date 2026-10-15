@@ -24,6 +24,23 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 
 ## Diagrama de la Clase `Estudiante`
 
+| Estudiante |
+| :--- |
+| `- nombre: String` |
+| `- apellido: String` |
+| `- edad: int` |
+| `- carrera: String` |
+| `- semestre: int` |
+
+## Explicación de los Atributos y Valores
+
+| Atributo | Tipo de Dato | Descripción | Ejemplo de Valor |
+| :--- | :--- | :--- | :--- |
+| `nombre` | `String` | Representa el primer o segundo nombre del estudiante. | `"Mateo"`, `"Carla"`, `"Luis"` |
+| `apellido` | `String` | Representa el o los apellidos del estudiante. | `"Pérez"`, `"Zambrano"`, `"Gómez"` |
+| `edad` | `int` | Representa la edad en años cumplidos del estudiante. | `18`, `19`, `21` |
+| `carrera` | `String` | Representa el programa académico o carrera universitaria en la que está matriculado el estudiante. | `"Software"`, `"Tecnologías de la Información"` |
+| `semestre` | `int` | Representa el nivel o periodo académico actual que se encuentra cursando. | `1`, `2`, `3` |
 ----
 
 ## Descripción de los Atributos
