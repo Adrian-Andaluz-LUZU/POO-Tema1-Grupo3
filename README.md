@@ -24,8 +24,6 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 
 ## Diagrama de la Clase `Estudiante`
 
-### Diagrama de la clase *Estudiante*
-
 ```text
 ┌─────────────────────────────────────────┐
 │               Estudiante                │
