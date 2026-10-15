@@ -33,7 +33,7 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 │ - edad: int                             │
 │ - carrera: String                       │
 │ - semestre: int                         │
-└─────────────────────────────────────────┘```
+└─────────────────────────────────────────┘
 ### Explicación de los Atributos y Valores
 ```
 * **nombre** (`String`): Representa el primer o segundo nombre del estudiante.
