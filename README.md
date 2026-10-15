@@ -19,19 +19,18 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 
 ## 📐 Diagrama de la Clase `Estudiante`
 
-```text
-+-----------------------------------+
-|            Estudiante             |
-+-----------------------------------+
-| - nombre   : String               |
-| - apellido : String               |
-| - edad     : int                  |
-| - carrera  : String               |
-| - semestre : int                  |
-+-----------------------------------+
-| + mostrarInformacion() : void     |
-+-----------------------------------+
-```
+" pegas aqui tu diagrma mateto "
 
 ----
 
+## Descripción de los Atributos
+
+| Atributo | Tipo de Dato | Descripción | Ejemplo de Valor |
+| :--- | :--- | :--- | :--- |
+| `nombre` | `String` | Guarda el nombre del estudiante | `"Adrián"` |
+| `apellido` | `String` | Guarda el apellido del estudiante | `"Andaluz"` |
+| `edad` | `int` | Representa la edad cronológica en años | `19` |
+| `carrera` | `String` | Nombre del programa académico | `"Ingeniería en Software"` |
+| `semestre` | `int` | Nivel o semestre lectivo actual | `1` |
+
+---
